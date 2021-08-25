@@ -96,7 +96,7 @@
 	<distributionManagement>
 	
 	    <snapshotRepository>
-	      <id>maven-snapshots</id>
+	      <id>nexus-snapshots</id>
 	      <url>http://34.131.71.42:8081/repository/maven-snapshots</url>
 	    </snapshotRepository>
 	   
