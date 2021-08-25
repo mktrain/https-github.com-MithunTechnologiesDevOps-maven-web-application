@@ -94,18 +94,13 @@
 	
 	<distributionManagement>
 	
-	    <repository>
-	      <id>nexus</id>
-	      <name>Releases Nexus Repository</name>
-	      <url>http://34.131.71.42:8081/repository/maven-snapshot</url>
-	    </repository>
-	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.235.103.28:8081/repository/flipkart-snapshot/</url>
+	      <name>Snapshot Nexus Repository</name>
+	      <url>http://34.131.71.42:8081/repository/maven-snapshot</url>
 	    </snapshotRepository>
 	    
+	 	    
 	</distributionManagement>
 	
 	<build>
