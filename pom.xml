@@ -132,7 +132,7 @@
                                 <serverId>nexus</serverId>
                                 <nexusUrl>http://34.131.71.42:8081/repository/maven-snapshots</nexusUrl>
 			        <username>admin</username>
-                                <password>Mdob</password>
+                                <password>Mdobi</password>
                                 <skipStaging>true</skipStaging>
                                 </configuration>
                         </plugin>
